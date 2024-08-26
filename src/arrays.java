@@ -1,13 +1,13 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class array {
+public class arrays {
 
     public class Student{
     }
 
     public static void main(String[] args) {
-        array obj1 = new array();
+        arrays obj1 = new arrays();
         int[] obj2 = new int[3];
         int[][] obj3 = new int[2][3];
         boolean[] obj4 = new boolean[3];
